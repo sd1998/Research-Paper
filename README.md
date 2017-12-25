@@ -1,2 +1,2 @@
 # Research-Paper-
-Edited Research Paper made as a part of CSD-205
+Research Paper edited as a part of CSD-205
